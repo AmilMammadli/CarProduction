@@ -1,0 +1,5 @@
+C:\Users\amil\source\repos\AccessModifier\AccessModifier\obj\Debug\net6.0\AccessModifier.csproj.AssemblyReference.cache
+C:\Users\amil\source\repos\AccessModifier\AccessModifier\obj\Debug\net6.0\AccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amil\source\repos\AccessModifier\AccessModifier\obj\Debug\net6.0\AccessModifier.AssemblyInfoInputs.cache
+C:\Users\amil\source\repos\AccessModifier\AccessModifier\obj\Debug\net6.0\AccessModifier.AssemblyInfo.cs
+C:\Users\amil\source\repos\AccessModifier\AccessModifier\obj\Debug\net6.0\AccessModifier.csproj.CoreCompileInputs.cache
